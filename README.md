@@ -7,6 +7,8 @@ Karin Hjorth
 o	For each step in this directory, write a paragraph or two of your interpretation of the code - in your own words describing what the code is doing
 o	Include a description of the workflow being applied, what format the data is in during each step, what each function is doing, etc
 
+Karin's thoughts about the Supreme Court Topic Modeling applied example:
+
 Step 1: Data Collection & Preparation
 
 Using “Beautiful Soup” to pull data out of HTML and XML files, this step prepares the date by creating a list of Supreme Court Documents and assigning a variable to house an array of documents.
