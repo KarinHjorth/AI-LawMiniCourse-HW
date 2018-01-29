@@ -37,7 +37,7 @@ For the remaining parts of the exercise, I was able to:
 •	Pasted the minimalist implementation into an empty kernel (copying “from_future…”)
 
 After these steps I got lost.  
-
+ 
 What did I do to triage?
 •	Reached out my homework partner but he was out of town and unable to connect with me
 •	Reached out over Slack; I had one respondent but it was the blind leading the blind
